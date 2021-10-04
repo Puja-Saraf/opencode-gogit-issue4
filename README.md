@@ -1,2 +1,2 @@
-# opencode-gogit-issue1
-Created this repo to solve opencode issue1
+# opencode-gogit-issue4
+Created this repo to solve opencode issue4
